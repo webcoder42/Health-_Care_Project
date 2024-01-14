@@ -1,0 +1,8 @@
+# .gitignore
+
+# Ignore system files and directories
+AppData/
+Local/
+.docker/
+.gitconfig
+.npmrc
